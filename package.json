@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-netatmo-energy",
-  "version": "0.0.3",
-  "description": "A node-red to interact with Netatmo thermostat",
+  "version": "0.0.3.1",
+  "description": "A node-red to interact with Netatmo thermostat - + correction by fmasson",
   "main": "index.js",
   "repository": {
     "type": "git",
